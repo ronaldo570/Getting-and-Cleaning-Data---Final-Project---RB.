@@ -8,7 +8,8 @@ Contiene las instrucciones de como se realizó el análisis del conjunto de dato
 Conjunto de datos
 Human Activity Recognition Using Smartphones
 
-Archivos 
+Archivos:
+
 El Codebook.md que describe las variables, la data, y cualquier transformacion realizada para limpiar y presentar de manera correcta los datos.
 
 run_analysis.R realiza la descarga y lectura de la data y seguidamente se realizan los 5 pasos descritos en la definicion del proyecto final: 
