@@ -1,6 +1,6 @@
 The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
-Download and the dataset
+Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
 
 Assign each data to variables
@@ -44,5 +44,5 @@ All start with character t in column’s name replaced by Time
 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 DataFinal (180 rows, 88 columns) is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
-Export DataFinal into FinalData.txt file.
+Export DataFinal into DataFinal.csv file.
 
