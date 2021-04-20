@@ -25,4 +25,4 @@ Y run_analysis.R realiza la descarga y lectura de la data y seguidamente se real
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 (Con el conjunto de datos del paso anterior, crea un segundo conjunto de datos independiente con la media de cada variable para cada actividad y cada sujeto). 
 
-El archivo DataFinal.txt contiene el conjunto de datos que se obtuvo despues de realizar los pasos. 
+El archivo DataFinal.csv contiene el conjunto de datos que se obtuvo despues de realizar los pasos. 
