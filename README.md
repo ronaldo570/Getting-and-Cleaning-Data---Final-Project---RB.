@@ -5,7 +5,8 @@ Tareas calificadas por los compañeros: Getting and Cleaning Data Course Project
 Esta es la entrega de Ronaldo Barrios del proyecto final del curso Getting and Cleaning Data. 
 Contiene las instrucciones de como se realizó el análisis del conjunto de datos de Human Activity Recognition
 
-Conjunto de datos
+Conjunto de datos:
+
 Human Activity Recognition Using Smartphones
 
 Archivos:
